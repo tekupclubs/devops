@@ -11,7 +11,7 @@
       <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:300px"/>
       <h1 class="text-center">My Web Server deployment is done with jenkins</h1>
-      <h2 class="text-center">You can auto-deploy it by SCM Trigger</h2>
+      <h2 class="text-center">Is auto deployed by webhook trigger</h2>
   </div>
 </body>
 </html>
