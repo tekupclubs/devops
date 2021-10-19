@@ -1,4 +1,4 @@
-test test
+
 # maven-project-tomcat
 Java Hello World web application created using maven-archetype-webapp
 
